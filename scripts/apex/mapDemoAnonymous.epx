@@ -1,0 +1,1 @@
+string month2 = MapDemo.retrieveMonth(2)
